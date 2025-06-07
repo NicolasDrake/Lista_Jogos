@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ListGames",
-    "slug": "ListGames",
+    "name": "Lista_Jogos",
+    "slug": "Lista_Jogos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
